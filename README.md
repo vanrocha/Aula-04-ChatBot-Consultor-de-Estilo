@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é uma simulação de um Chatbot Consultor de Estilo utilizando Python. Ele demonstra interações básicas com o usuário, personalizando as sugestões de acordo com as preferências de estilo informadas. 
+Simulação de um Chatbot Consultor de Estilo utilizando Python. Ele demonstra interações básicas com o usuário, personalizando as sugestões de acordo com as preferências de estilo informadas. 
 
 **Funcionalidades:**
 
